@@ -7,7 +7,8 @@ log('`certificates` is awake')
 module.exports = {
   presets: [
     [
-      '@babel/env', {
+      '@babel/env',
+      {
         targets: {
           node: 'current'
         },
