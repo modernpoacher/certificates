@@ -1,6 +1,6 @@
 {
   "name": "@modernpoacher/certificates",
-  "version": "0.0.165",
+  "version": "0.0.166",
   "description": "Generate root CA and self-signed certificates with OpenSSL",
   "type": "module",
   "author": {
